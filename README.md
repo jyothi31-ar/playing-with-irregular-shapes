@@ -1,8 +1,10 @@
 # playing-with-openCV
 
 Simply figuring out the irregular shapes by 
-Encapsulating smallest  circle around the given irregular shape
-To find out the centriod
-To find out the major axis length
-To find the perimeter
-To find the Total surface area of the image
+
+
+1.Encapsulating smallest circle around the given irregular shape
+2.To find out the centriod
+3.To find out the major axis length
+4.To find the perimeter
+5.To find the Total surface area of the image
